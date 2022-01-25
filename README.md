@@ -25,6 +25,6 @@
   <a href = "mailto:jefferson@jeffurlan.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeffurlan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/jeffurlan/jeffurlan/snake.svg)
+  ![Snake animation](https://github.com/JEFFURLAN/JEFFURLAN/blob/main/JEFFURLAN/github-contribution-grid-snake.svg)
  
 </div>
