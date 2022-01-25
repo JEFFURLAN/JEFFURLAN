@@ -1,4 +1,4 @@
-## Hello World!!! Jefferson Furlan aqui, criador de conteúdo de programação e tecnologia!
+## Hello World!!! Jefferson Furlan aqui, criador de conteúdo de programação, fotografia e tecnologia!
 <div align="center">
   <a href="https://github.com/jeffurlan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffurlan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
