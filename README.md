@@ -18,10 +18,10 @@
   ##
  
 <div> 
-  <a href="https://jeffurlan.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://jeffurlan.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF0000?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jeffurlan.bmx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/JEFFURLAN" target="_blank"><img src="https://img.shields.io/badge/facebook-9146FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/jeffurlan" target="_blank"><img src="https://img.shields.io/badge/twitter-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://twitter.com/jeffurlan" target="_blank"><img src="https://img.shields.io/badge/twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jefferson@jeffurlan.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeffurlan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
