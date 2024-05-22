@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+Jefferson+Furlan.;Seja+bem-vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
-<center>## Hello World!!! Criador de conteúdo de programação, fotografia e tecnologia!</center>
+<p align="center">
+<a href="https://hi.jeffurlan.com"><img width="43px" alt="Website" title="HI" src="https://i.imgur.com/UkhMqtz.png"/></a>
+&#8287;&#8287;
+<a href="https://jeffurlan.com"><img width="44px" alt="Discord" title="Jefferson Furlan" src="https://i.imgur.com/lToTI0c.png"/></a>
+&#8287;&#8287;
+<a href="https://diskti.jeffurlan.com"><img width="43px" alt="Steam" title="DISK TI" src="https://i.imgur.com/JYfEBz5.png"/></a>
+</p>
 <div align="center">
   <a href="https://github.com/jeffurlan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffurlan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
