@@ -4,7 +4,7 @@
 &#8287;&#8287;
 <a href="https://whatsapp.jeffurlan.com" target="_blank"><img width="44px" alt="WhatsApp" title="WhatsApp" src="https://github.com/JEFFURLAN/whatsapp/raw/main/assets/favicon/favicon.ico"/></a>
 &#8287;&#8287;
-<a href="https://diskti.jeffurlan.com" target="_blank"><img width="43px" alt="DISK TI" title="DISK TI" src="[https://github.com/JEFFURLAN/DISKTI/raw/main/images/favicon.ico](https://raw.githubusercontent.com/JEFFURLAN/DISKTI/main/images/favicon.ico?token=GHSAT0AAAAAACSUZQRK5TACESASAOJLAMCSZSOIODQ)"/></a>
+<a href="https://diskti.jeffurlan.com" target="_blank"><img width="43px" alt="DISK TI" title="DISK TI" src="https://raw.githubusercontent.com/JEFFURLAN/DISKTI/main/images/favicon.ico?token=GHSAT0AAAAAACSUZQRK5TACESASAOJLAMCSZSOIODQ"/></a>
 </p>
 <div align="center">
   <a href="https://github.com/jeffurlan">
