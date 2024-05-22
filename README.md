@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+Jefferson+Furlan.;Seja+bem-vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
 <p align="center">
-<a href="https://hi.jeffurlan.com"><img width="43px" alt="Website" title="HI" src="[https://i.imgur.com/UkhMqtz.png](https://raw.githubusercontent.com/JEFFURLAN/HI/main/favicon.ico?token=GHSAT0AAAAAACSUZQRLD2RKT7UFWN7QRKZSZSOHR3A)"/></a>
+<a href="https://hi.jeffurlan.com"><img width="43px" alt="Website" title="HI" src="https://github.com/JEFFURLAN/HI/raw/main/favicon.ico"/></a>
 &#8287;&#8287;
 <a href="https://jeffurlan.com"><img width="44px" alt="Discord" title="Jefferson Furlan" src="https://i.imgur.com/lToTI0c.png"/></a>
 &#8287;&#8287;
