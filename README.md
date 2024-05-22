@@ -4,7 +4,7 @@
 &#8287;&#8287;
 <a href="https://jeffurlan.com"><img width="44px" alt="Discord" title="Jefferson Furlan" src="https://i.imgur.com/lToTI0c.png"/></a>
 &#8287;&#8287;
-<a href="https://diskti.jeffurlan.com"><img width="43px" alt="Steam" title="DISK TI" src="https://i.imgur.com/JYfEBz5.png"/></a>
+<a href="https://diskti.jeffurlan.com"><img width="43px" alt="Steam" title="DISK TI" src="https://github.com/JEFFURLAN/DISKTI/raw/main/images/favicon.ico"/></a>
 </p>
 <div align="center">
   <a href="https://github.com/jeffurlan">
