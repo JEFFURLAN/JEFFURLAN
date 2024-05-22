@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+Jefferson+Furlan.;Seja+bem-vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
-## Hello World!!! Jefferson Furlan aqui, criador de conteúdo de programação, fotografia e tecnologia!
+<center>## Hello World!!! Criador de conteúdo de programação, fotografia e tecnologia!</center>center>
 <div align="center">
   <a href="https://github.com/jeffurlan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffurlan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
