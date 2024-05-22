@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+Jefferson+Furlan.;Seja+bem-vindo(a)+ao+meu+perfil.)](https://github.com/JEFFURLAN)
 
+<div align="center">
+  <a href="https://github.com/jeffurlan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffurlan&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffurlan&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
