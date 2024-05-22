@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://hi.jeffurlan.com"><img width="43px" alt="Website" title="HI" src="https://github.com/JEFFURLAN/HI/raw/main/favicon.ico"/></a>
 &#8287;&#8287;
-<a href="https://jeffurlan.com"><img width="44px" alt="Discord" title="Jefferson Furlan" src="https://i.imgur.com/lToTI0c.png"/></a>
+<a href="https://whatsapp.jeffurlan.com"><img width="44px" alt="Discord" title="WhatsApp" src="https://github.com/JEFFURLAN/whatsapp/raw/main/assets/favicon/favicon.ico"/></a>
 &#8287;&#8287;
 <a href="https://diskti.jeffurlan.com"><img width="43px" alt="Steam" title="DISK TI" src="https://github.com/JEFFURLAN/DISKTI/raw/main/images/favicon.ico"/></a>
 </p>
