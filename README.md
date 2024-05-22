@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+Jefferson+Furlan.;Seja+bem-vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
 <p align="center">
-<a href="https://hi.jeffurlan.com" target="_blank"><img width="43px" alt="HI" title="HI" src="https://raw.githubusercontent.com/JEFFURLAN/HI/main/favicon.ico?token=GHSAT0AAAAAACSUZQRLYXBWGTIR6FEKIPNSZSOIS5A"/></a>
+<a href="https://hi.jeffurlan.com" target="_blank"><img width="43px" alt="HI" title="HI" src="https://raw.githubusercontent.com/JEFFURLAN/HI/main/favicon.ico?token=GHSAT0AAAAAACSUZQRLEQ37V4UT2CKB2S3CZSOJB6A"/></a>
 &#8287;&#8287;
-<a href="https://whatsapp.jeffurlan.com" target="_blank"><img width="44px" alt="WhatsApp" title="WhatsApp" src="https://raw.githubusercontent.com/JEFFURLAN/whatsapp/main/assets/favicon/favicon.ico?token=GHSAT0AAAAAACSUZQRLZ75SUOQK3ZOLKRAWZSOIVCA"/></a>
+<a href="https://whatsapp.jeffurlan.com" target="_blank"><img width="44px" alt="WhatsApp" title="WhatsApp" src="https://raw.githubusercontent.com/JEFFURLAN/whatsapp/main/assets/favicon/favicon.ico?token=GHSAT0AAAAAACSUZQRL7DNQ5XWCRTNDDDLEZSOJCVQ"/></a>
 &#8287;&#8287;
 <a href="https://diskti.jeffurlan.com" target="_blank"><img width="43px" alt="DISK TI" title="DISK TI" src="https://raw.githubusercontent.com/JEFFURLAN/DISKTI/main/images/favicon.ico?token=GHSAT0AAAAAACSUZQRLSELXTGX4P2YYD4AWZSOJAFQ"/></a>
 </p>
