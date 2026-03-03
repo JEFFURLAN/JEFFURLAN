@@ -2,7 +2,7 @@
 <marquee><div align="center">
   <a href="https://github.com/jeffurlan">
   <img height="64" src="https://avatars.githubusercontent.com/u/70243829?v=4&size=64""/></a>
-</div><</marquee>
+</div></marquee>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
