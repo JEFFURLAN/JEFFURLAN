@@ -1,8 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+Jefferson+Furlan.;Seja+bem-vindo(a)+ao+meu+perfil.)](https://github.com/JEFFURLAN)
-
 <div align="center">
   <a href="https://github.com/jeffurlan">
-  <img height="64" src="https://avatars.githubusercontent.com/u/70243829?v=4&size=64""/>
+  <img height="64" src="https://avatars.githubusercontent.com/u/70243829?v=4&size=64""/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+Jefferson+Furlan.;Seja+bem-vindo(a)+ao+meu+perfil.)](https://github.com/JEFFURLAN)
 </div>
 
 <div style="display: inline_block"><br>
