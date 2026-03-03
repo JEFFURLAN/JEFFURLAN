@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/jeffurlan">
-  <img height="180em" src="https://avatars.githubusercontent.com/u/70243829?s=400&v=4""/>
+  <img height="180em" src="https://avatars.githubusercontent.com/u/70243829?v=4&size=64""/>
 </div>
 
 <div style="display: inline_block"><br>
